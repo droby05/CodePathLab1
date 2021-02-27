@@ -7,7 +7,7 @@ This app asks the user a question and allows them to click on the question to re
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/j2wNOEN7Dc.gif" width=5700><br>
+<img src="http://g.recordit.co/zaKv0BSi5o.gif" width=5700><br>
 
 
 ## Required
